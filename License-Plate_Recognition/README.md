@@ -1,4 +1,0 @@
-# License Plate Detection
-
-
-
